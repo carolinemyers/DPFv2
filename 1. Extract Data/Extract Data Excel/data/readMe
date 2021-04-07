@@ -1,4 +1,6 @@
-Data should be structured as excel sheet with observer code as title. 
+Data folders should be stored here. 
+One folder per observer with title set to observer code. 
+Inside each data folder, data should be structured as excel sheet with observer code as title. 
 
 Columns should be:
 Observer	
