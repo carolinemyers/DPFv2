@@ -1,0 +1,19 @@
+Data should be structured as excel sheet with observer code as title. 
+
+Columns should be:
+Observer	
+Run	
+Trial	
+Location	
+Contrast	
+tilt	
+RightResponse	
+Response	
+rightwrong	
+RT	
+Age	
+Height (in)	
+Height (cm)	
+Grade	
+Gender	
+Hand
